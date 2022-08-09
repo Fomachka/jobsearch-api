@@ -1,0 +1,23 @@
+{
+  "name": "jobsearch-api",
+  "version": "1.0.0",
+  "description": "Api for job-search application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://%3C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%3E@github.com/Fomachka/jobsearch-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fomachka/jobsearch-api/issues"
+  },
+  "homepage": "https://github.com/Fomachka/jobsearch-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
