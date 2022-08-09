@@ -1,0 +1,311 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "companyName": "Google Inc.",
+      "position": "Front-End Developer",
+      "location": "California, USA",
+      "salary": "46000",
+      "information": "GEO provides complementary, turn key solutions for numerous government partners worldwide across a spectrum of diversified correctional and community reentry services. From the development of state-of-the-art facilities and the provision of management services and evidence-based rehabilitation to the post-release reintegration and supervision of individuals in the community.",
+      "requirements": [
+        "Bachelor’s Degree in Web Development, Computer Science, Computer Engineering, or a related field. Minimum eight (8) years of working UX/UI/Web development experience.",
+        "A combination of education and experience may be taken into consideration.",
+        "Proficiency with HTML, CSS, JavaScript, and jQuery.",
+        "Excellent project management skills to manage multiple projects and meet deadlines.",
+        "Strong knowledge of WordPress, Google Analytics, and Google Ads. Familiarity with Amazon Web Services (AWS) a plus."
+      ]
+    },
+    {
+      "id": 2,
+      "companyName": "Jobot",
+      "position": "Full-Stack Javascript Developer",
+      "location": "Seattle, USA",
+      "salary": "35000",
+      "information": "The Jobot platform blends proprietary AI technology and experienced recruiting pros to create the first of its kind job matching engine. This unique blend of technology and recruiting skills make recruiting top talent and building a positive work culture possible for every company.",
+      "requirements": [
+        "Bachelor’s degree in computer science, software development, engineering, or a related technical field.",
+        "Proficient with the latest versions of ECMAScript (JavaScript) as well as HTML and CSS",
+        "Knowledge of React and common tools used in the wider React ecosystem, such as Node.js.",
+        "Familiarity with common programming tools such as Redux, IDEs, RESTful APIs, Git repositories, TypeScript, version control software, and remote deployment tools."
+      ]
+    },
+    {
+      "id": 3,
+      "companyName": "Valour",
+      "position": "Full Stack Developer With React JS",
+      "location": "Chicago, USA",
+      "salary": "50000",
+      "information": "Eliassen Group provides strategic consulting and talent solutions to drive our clients’ innovation and business results. Our purpose is to positively impact the lives of our employees, clients, consultants, and the communities in which we operate. Leveraging over 30 years of success, our expertise in talent solutions, life sciences consulting, Agile consulting, cloud services, risk management, business optimization, and managed services enables us to partner with our clients to execute their business strategy and scale effectively.",
+      "requirements": [
+        "Master’s degree in computer science, software development, engineering, or a related technical field.",
+        "Familiarity with common programming tools such as Redux, IDEs, RESTful APIs, Git repositories, TypeScript, version control software, and remote deployment tools.",
+        "An understanding of common programming paradigms and fundamental React principles, such as React components, hooks, and the React lifecycle."
+      ]
+    },
+    {
+      "id": 4,
+      "companyName": "Softworld",
+      "position": "Full-Stack REACT Developer",
+      "location": "Chantilly, VA",
+      "salary": "65000",
+      "information": "Design, code, test, deploy and document web applications according to established standards. Troubleshoot and solve web development issues. aAssist with creating database schemas that represent and -support business processes.",
+      "requirements": [
+        "Strong problem-solving skills including a self-motivated approach to learning and mastering skills.",
+        "Experience developing and/or consuming custom REST based web services, JSON or XML.",
+        "Experience developing web applications using REACT/Redux, Angular, or Vue.js.",
+        "Familiar with an Agile software development approach."
+      ]
+    },
+    {
+      "id": 5,
+      "companyName": "Resolute Tech",
+      "position": "Software Engineer (.Net or React)",
+      "location": "Naperville, USA",
+      "salary": "46000",
+      "information": "We are looking for an experienced .NET Developers with React experience for our Software Development client (western suburbs). The position is primarily responsible for developing scalable and reliable web-based applications.",
+      "requirements": [
+        "3+ years working with the .NET Core, ASP.NET Core, ASP.NET, and design/architectural patterns (e.g. Model-View-Controller (MVC)).",
+        "2+ years of experience building ReactJS or React-Native code with 1+ years of experience with HTML, CSS, and Javascript, or 4+ years with React Native.",
+        "3+ years of hands on experience developing applications/websites using C#.",
+        "Experience working with and developing RESTful API’s."
+      ]
+    },
+    {
+      "id": 6,
+      "companyName": "Payarc LLC",
+      "position": "PHP/Laravel Developer",
+      "location": "Copenhagen, Denmark",
+      "salary": "72000",
+      "information": "PAYARC is an innovative Fintech Company that provides payment-processing services to businesses in the US. It was founded in 2016 in Greenwich CT, to leverage technology to reduce costs associated with accepting card payment while offering increased customer service and support. Our goal is to provide our customers with the lowest cost processing, best-in-class technology, and unparalleled support.",
+      "requirements": [
+        "Knowledge of HMTL/CSS-Ajax-Javascript-JOSN-XML.",
+        "Knowledge with PHP/Laravel/Nova/Vue/Angular/Apiato.",
+        "Sense of ownership and pride in your performance and its impact on company's success.",
+        "Understanding fundamental design principles behind a scalable application."
+      ]
+    },
+    {
+      "id": 7,
+      "companyName": "The Judge Group",
+      "position": "React JS Developer",
+      "location": "Paris, France",
+      "salary": "50000",
+      "information": "The Judge Group, celebrating its 50th anniversary, is a leading professional services firm specializing in talent, technology, and learning solutions. We consult, staff, train, and solve. Through our work we make people and organizations better. Our services are successfully delivered through a network of more than 30 offices in the United States, Canada, and India.",
+      "requirements": [
+        "Prepare test-based applications for various ReactJS/NodeJS/SQL applications.",
+        "Hands-on experience and very proficient in Software Language ReactJS/NodeJS/SQL with 7+ Years of experience.",
+        "Understanding fundamental design principles behind a scalable application.",
+        "Experience with working Wireframes to modify as per new UI/UX design Leverage code base to support modernization capabilities."
+      ]
+    },
+    {
+      "id": 8,
+      "companyName": "ELIASSEN",
+      "position": "Senior React/Node.js Engineer",
+      "location": "New York, USA",
+      "salary": "76000",
+      "information": "Eliassen Group provides strategic consulting and talent solutions to drive our clients’ innovation and business results. Our purpose is to positively impact the lives of our employees, clients, consultants, and the communities in which we operate. Leveraging over 30 years of success, our expertise in talent solutions, life sciences consulting, Agile consulting, cloud services, risk management, business optimization, and managed services enables us to partner with our clients to execute their business strategy and scale effectively.",
+      "requirements": [
+        "Bachelor's degree or equivalent experience required.",
+        "5+ years of experience required.",
+        "React, Electron, Redux, Node.js.",
+        "JavaScript, TypeScript"
+      ]
+    },
+    {
+      "id": 9,
+      "companyName": "Business Integra Inc.",
+      "position": "UI-React Developer",
+      "location": "Quebec, Canada",
+      "salary": "56000",
+      "information": "A software company that is actively seeking an experienced Full Stack Software Developer for a promising position. In this role, the Full Stack Software Developer will be responsible for developing applications by studying operations; designing, developing, and installing software applications; and supporting and helping to Development Team.",
+      "requirements": [
+        "Minimum 8 year of experience in react.js & redux development.",
+        "React.js unit test case writing.",
+        "JavaScript 6, Spread operator , babel and node.js."
+      ]
+    },
+    {
+      "id": 10,
+      "companyName": "Comtech",
+      "position": "React JS Developer",
+      "location": "Los-Angeles, USA",
+      "salary": "80000",
+      "information": "The React JS Developer will join a team of 125+ purpose-driven staff members in a friendly, focused, fast-paced entrepreneurial environment. Our client is the largest honor society in the USA. Our organization is looking for a React JS Developer who can utilize Javascript Frameworks, HTML and CSS to develop effective user interfaces on the company website and services. The successful candidate will work closely with our web development and software design teams to update the website and internal web tools to make them more efficient.",
+      "requirements": [
+        "Minimum of 3 years of recent, work related, front end development experience",
+        "Strong drive and ability to meet or exceed established deadlines and timetables./",
+        "Ability to quickly learn and stay current with modern engineering practices and methodologies.",
+        "Ability to write efficient MySQL queries."
+      ]
+    },
+    {
+      "id": 11,
+      "companyName": "TEKsystems",
+      "position": "React Js Developer",
+      "location": "Washington, USA",
+      "salary": "76000",
+      "information": "Experienced senior ReactJS developer who will be responsible for developing and maintaining UI functionality on an enterprise level application. Senior level demonstrated experience designing and developing ReactJS User Interfaces. Demonstrated proficiency with the ReactJS, html, CSS. Demonstrated ability to mentor and provide technical best practices to more junior development resources. Large application engineering and design experience. Demonstrated proficiency communicating application concepts at an appropriate level of detail to both technical peers and management – both written and verbal. Experience developing applications leveraging a relational database – SQL. Experience with Python applications and microservices.",
+      "requirements": [
+        "Senior level programming experience in a ReactJS developing and delivering functional User Interfaces.",
+        "Demonstrated proficiency with Git.",
+        "Experience with configuration and operation of web servers.",
+        "Nice to have: Python experience, Django REST Framework, Windows server familiarity, including writing and creating windows services, experience with a variety of web / application server technologies, YAML, Ansible Playbook, Jenkins, Jira, Bitbucket (or GitHub, GitLab), Flask."
+      ]
+    },
+    {
+      "id": 12,
+      "companyName": "Moseley Technical Services",
+      "position": "Software Engineer",
+      "location": "Venice, Italy",
+      "salary": "50000",
+      "information": "The React JS Developer will join a team of 125+ purpose-driven staff members in a friendly, focused, fast-paced entrepreneurial environment. Our client is the largest honor society in the USA. Our organization is looking for a React JS Developer who can utilize Javascript Frameworks, HTML and CSS to develop effective user interfaces on the company website and services. The successful candidate will work closely with our web development and software design teams to update the website and internal web tools to make them more efficient.",
+      "requirements": [
+        "Minimum of 3 years of recent, work related, front end development experience",
+        "Strong drive and ability to meet or exceed established deadlines and timetables.",
+        "Ability to quickly learn and stay current with modern engineering practices and methodologies.",
+        " Ability to write efficient MySQL queries."
+      ]
+    },
+    {
+      "id": 13,
+      "companyName": "Connect Search, LLC",
+      "position": "Frontend Developer",
+      "location": "Chicago, USA",
+      "salary": "67000",
+      "information": "Network Perception protects mission-critical assets by empowering cybersecurity and compliance teams to achieve high levels of cyber resiliency through verification, visibility, and velocity. Built by a government-funded research team of cybersecurity and industry experts in network security and critical infrastructure protection, the NP-View platform is the industry standard to verify network segmentation and visualize industrial control network environments.",
+      "requirements": [
+        "4+ years’ experience in Software Development, Full Stack Engineering and/or Web Development, preferably on customer-facing products.",
+        "Experience planning and developing websites across multiple products and organizations.",
+        "Proficiency in front-end development web programming languages such as HTML and CSS, JavaScript.",
+        "Experience with structured and unstructured query languages such as SQL and NoSQL."
+      ]
+    },
+    {
+      "id": 14,
+      "companyName": "Charles Schwab Inc.",
+      "position": "Frontend Software Developer",
+      "location": "Busan, South Korea",
+      "salary": "40000",
+      "information": "This is a Frontend Software Developer role, focused on front-end user interface, managing the software development lifecycle including the coordination, prioritization, and communication across the business product areas. It will include building and realizing the strategy for the teams to support the dynamic needs of the WAM business.",
+      "requirements": [
+        "2-4+ years of professional experience building frontend software.",
+        "Recent experience working in Agile teams with proven delivery history.",
+        "Good communication skills, ability to express ideas clearly.",
+        "Strive for ownership and quality deliverables with little supervision."
+      ]
+    },
+    {
+      "id": 15,
+      "companyName": "Front End Developer",
+      "position": "Frontend Software Developer",
+      "location": "Tokyo, Japan",
+      "salary": "53000",
+      "information": "Buyers Edge Platform (“BEP”) was born out of the 20-year growth and success of its founding companies Dining Alliance, Buyers Edge and Consolidated Concepts. BEP is a technology enabled group purchasing network, which provides group purchasing services, SaaS based technology solutions, and supply chain consulting and procurement related services to foodservice operators across many verticals, including restaurants (independents as well as multiunit, chains and franchise concepts), hospitality (hotels, casinos, resorts), healthcare (LTC based operators), colleges & universities and array of other foodservice based operators (food trucks, caterers, amusement parks and other leisure based operators).",
+      "requirements": [
+        "5+ years of React experience.",
+        "Experience working with relational databases (MySQL preferred).",
+        "BA/BS in a technical discipline, or equivalent professional experience.",
+        "The ability to work with PM and understand and define system requirements."
+      ]
+    },
+    {
+      "id": 16,
+      "companyName": "Jay Crew",
+      "position": "Full Stack Developer-Front React.js",
+      "location": "Ankara, Turkey",
+      "salary": "45000",
+      "information": "Obtains tasks from the project lead or Team Lead (TL), prepares functional and design specifications, approves them with all stakeholders.Ensures that assigned area/areas are delivered within set deadlines and required quality objectives.",
+      "requirements": [
+        "University degree in Computer Related Sciences or similar.",
+        "5+ years of commercial development experience in Javascript.",
+        "Passion for building user-facing products as well as large backend systems, with past experience in at least one of the two.",
+        "2+ years experience with SparkSQL."
+      ]
+    },
+    {
+      "id": 17,
+      "companyName": "ODP Corporation",
+      "position": "Software Engineer, Front-End Remote US",
+      "location": "Milan, Italy",
+      "salary": "66000",
+      "information": "Office Depot is a brand you've counted on since 1986 for your office supplies and business services, supported by a strong retail network and world-class technology platforms. As the business landscape continues to evolve, we are changing the way we look at our technology platforms to drive significant change in the way we do business. We're reinventing ourselves and making significant investments in our multi-billion-dollar digital platforms to drive growth in our range of B2B products & services. Apply today to be a part of this revolutionary change!",
+      "requirements": [
+        "Solid understanding of HTML and CSS/SCSS, and able to create responsive UI.",
+        "Solid understanding of React.js and its fundamentals, including modern features like hooks; handson experience required.",
+        "Knowledge of the overall browser rendering behavior and measuring and optimizing performance.",
+        "Understanding of what the business / stakeholders need and transfer that into your project."
+      ]
+    },
+    {
+      "id": 18,
+      "companyName": "Eaton",
+      "position": "Frontend End Developer",
+      "location": "Brussels, Belgium",
+      "salary": "63000",
+      "information": "Develop embedded Software/Firmware to achieve the goals of the business. Develop embedded Software for new product features and behavior, resolving Firmware defects and resolving customer issues through embedded Software design. Develop and continuously improve the embedded Software development, defect identification and tracking, test and release processes. Stay informed of emerging tools and methods in the embedded Software area.",
+      "requirements": [
+        "Bachelor's degree from an accredited institution.",
+        "Minimum one (1) year Front End development experience: Javascript / Typescript / CSS / HTML etc.",
+        "Minimum one (1) year Front End framework experience: React / Anguler / Ionic etc.",
+        "Minimum one (1) year C/C#/C /Java, Python experience."
+      ]
+    },
+    {
+      "id": 19,
+      "companyName": "Technology Navigators",
+      "position": "Senior Front End Software Developer",
+      "location": "Texas, USA",
+      "salary": "63000",
+      "information": "Our client remains a dominant force in the utilities industry with the bandwidth to service millions of Texans each year. This company remains dedicated to excellence in all area of business through continuous efforts to improve and expand services and offerings. They need you, a skilled Senior Front-End Software Developer, to join this growing team and help maintain mission-critical infrastructure.",
+      "requirements": [
+        "4+ years of user interface (UI) development experience working with HTML, CSS, and JavaScript",
+        "Strong communication and collaboration experience.",
+        "Bachelor’s degree in Computer Science or closed related field of study.",
+        "Recent GIT experience."
+      ]
+    },
+    {
+      "id": 20,
+      "companyName": "Amazon",
+      "position": "Front End Developer",
+      "location": "Warsaw, Poland",
+      "salary": "54000",
+      "information": "Amazon Web Services is looking for highly talented, hands on Front End Developers to help accelerate our growing Professional Services business. This is an excellent opportunity to join Amazon's world class technical teams, working with some of the best and brightest engineers while also developing your skills and furthering your career within one of the most innovative and progressive technology companies.",
+      "requirements": [
+        "Bachelor's degree with 2+ years of professional experience or Master's degree with 1+ years of experience.",
+        "Experience with frontend technologies.",
+        "Contributions to open source software.",
+        "Prior experience creating a design system or component library."
+      ]
+    },
+    {
+      "id": 21,
+      "companyName": "Apolis",
+      "position": "Front End Developer",
+      "location": "Seoul, South Korea",
+      "salary": "40000",
+      "information": "As a Mid-level Software Engineer at CHG Healthcare Services, Inc., you will be responsible for building customer-facing applications and features for our client digital portal.  You’ll develop high-quality software using solid architecture design and engineering best-practices in an agile environment.  You’ll have a dedicated leader focused on your individual growth and development and will work on a collaborative engineering team with opportunities to share mentoring and coaching.",
+      "requirements": [
+        "4 Year College Degree; Computer Science or related discipline or equivalent experience.",
+        "3+ years of client-side development experience.",
+        "On-the-job interaction with UX designers, project managers, business analysts , and quality assurance resources.",
+        "Familiarity and/or development experience with JavaScript Frameworks (e.g. Angular, Node, React, etc.)."
+      ]
+    },
+    {
+      "id": 22,
+      "companyName": "SNAP-RAISE",
+      "position": "Software Engineer (ReactJS, GraphQL, UIs)",
+      "location": "Osaka, Japan",
+      "salary": "64000",
+      "information": "Snap! Mobile, Inc. is the leading online fundraising and e-commerce platform servicing schools, teams, clubs, and booster clubs to help them get the resources they need to build the next generation of leaders. There are a hundred ways you can join us in creating a better tomorrow. Donate to a program. Buy a T-shirt. Become part of our team. Whatever it is, it will be the most important, meaningful thing you can do, because youll be making a difference in the life of a kid. And every kid needs a champion.",
+      "requirements": [
+        "3+ years of ReactJS development (5+ years preferred for senior candidates).",
+        "3+ years working professionally with NodeJS in any capacity.",
+        "Any experience working with other JavaScript frameworks/libraries besides ReactJS is preferred (VueJS, StencilJS, Svelte, SolidJS).",
+        "Experience working with TypeScript, Prisma, Jest, and Apollo Server are a big plus."
+      ]
+    }
+  ]
+}
